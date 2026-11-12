@@ -7,17 +7,25 @@
 🎮 طريقة الاستخدام
 اختار من القايمة الرئيسية:
 [1] Show Client List - عرض كل العملاء
+
 [2] Add New Client - إضافة عميل جديد
+
 [3] Delete Client - حذف عميل
+
 [4] Update Client Info - تعديل بيانات عميل
+
 [5] Find Client - البحث عن عميل
+
 [6] Transactions - قايمة المعاملات
 [7] Exit
 
 ومن قايمة المعاملات:
 [1] Deposit - إيداع
+
 [2] Withdraw - سحب
+
 [3] Total Balances - إجمالي أرصدة كل العملاء
+
 [4] Main Menue - الرجوع للقايمة الرئيسية
 
 🛠️ المفاهيم اللي استخدمتها
